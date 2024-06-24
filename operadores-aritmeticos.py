@@ -1,6 +1,6 @@
 x = y = z = 0
 
-x = int(input("Enter fisrt number: "))
+x = int(input("Enter first number: "))
 y = int(input("Enter second number: "))
 z = x + y
 
